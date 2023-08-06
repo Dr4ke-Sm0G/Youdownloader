@@ -7,8 +7,8 @@ import ffmpeg
 
 
 def print_intro():
-    print(Fore.CYAN + Style.BRIGHT + "█▄█ █▀█ █░█ ▀█▀ █░█ █▄▄ █▀▀")
-    print("░█░ █▄█ █▄█ ░█░ █▄█ █▄█ ██▄")
+    print(Fore.RED + Style.BRIGHT + "\n█▄█ █▀█ █░█ ▀█▀ █░█ █▄▄ █▀▀")
+    print("░█░ █▄█ █▄█ ░█░ █▄█ █▄█ ██▄\n")
     print(Style.RESET_ALL)
 
 
